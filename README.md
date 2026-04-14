@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Mateo Spadoni
+# Hi, I'm Mateo Spadoni
 
-* 🎓 Systems Engineering student at UTN (Universidad Tecnológica Nacional) – 4th year 
-* 💻 focused on Backend / Fullstack Developer
-* 🚀 Looking for internships or junior professional opportunities
+* Systems Engineering student at UTN (Universidad Tecnológica Nacional) – 4th year 
+* Backend and Fullstack Developer focused on building scalable, efficient, and production-ready applications.
+* Looking for internships or junior professional opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 ---
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
@@ -47,7 +47,7 @@ Basic experience with:
 
 ---
 
-## 📫 Contact
+## Contact
 
 * LinkedIn: [(add your link)](https://www.linkedin.com/in/maspadoni/)
 * Email: spado.mateo@gmail.com
