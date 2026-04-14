@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mateo Spadoni
 
 * 🎓 Systems Engineering student at UTN (Universidad Tecnológica Nacional) – 4th year 
-* 💻 focus on Backend / Fullstack Developer
+* 💻 focused on Backend / Fullstack Developer
 * 🚀 Looking for internships or junior professional opportunities
 
 ---
