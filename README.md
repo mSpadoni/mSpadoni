@@ -36,35 +36,6 @@ Basic experience with:
 * C / C++
 * Haskell
 
----
-
-## 📌 Featured Projects
-
-### 🛒 Ecommerce Platform (MERN + Keycloak + Docker)
-
-Full-stack e-commerce system with:
-
-* Authentication using Keycloak
-* Role-based access (admin / user)
-* Product and user management
-* Dockerized environment for easy setup
-
-### 🔐 REST API
-
-Backend API with:
-
-* CRUD operations
-* Authentication middleware
-* Proper error handling and validations
-
----
-
-## 🎯 Goal
-
-To grow as a backend/fullstack developer by joining real-world teams, contributing to scalable systems, and gaining professional experience in software development.
-
----
-
 ## 📫 Contact
 
 * LinkedIn: (add your link)
