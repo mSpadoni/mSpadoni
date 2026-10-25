@@ -10,6 +10,7 @@ Desarrollador **backend y full stack junior**, buscando mi primera experiencia p
 - 🛒 **[Tienda Sol](https://github.com/mSpadoni/tienda_sol_ecomerce):** e-commerce full stack con Node.js, React, Keycloak y tests.
 - 🪑 **[Fábrica de Sillones](https://github.com/AgustinFait/TPBBDD):** base de datos de 24 tablas en SQL Server y Data Warehouse con 10 KPIs.
 - 🖥️ **[C-Comenta](https://github.com/mSpadoni/sistemas-operativos):** sistema operativo distribuido en C, donde hice el módulo de Memoria.
+- 🎨 **[Entelai Doc](https://github.com/mSpadoni/entelai-doc-ux-ui):** rediseño UX/UI de una app de salud con más de 70 pantallas en Figma, cumpliendo WCAG 2.2 AA.
 
 **Tecnologías:**
 
@@ -23,6 +24,7 @@ Desarrollador **backend y full stack junior**, buscando mi primera experiencia p
 ![Keycloak](https://img.shields.io/badge/Keycloak-2C3E50?style=flat-square&logo=keycloak&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
